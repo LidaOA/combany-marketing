@@ -1,0 +1,5 @@
+2026/03/13-13:46:50.484 523c Creating DB D:\Python_Projects\combany\marketing\.puppeteer_temp\Default\EdgeCoupons/coupons_data.db since it was missing.
+2026/03/13-13:46:52.130 523c Reusing MANIFEST D:\Python_Projects\combany\marketing\.puppeteer_temp\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/03/13-13:46:59.077 3880 Level-0 table #5: started
+2026/03/13-13:46:59.132 3880 Level-0 table #5: 681601 bytes OK
+2026/03/13-13:46:59.181 3880 Delete type=0 #3

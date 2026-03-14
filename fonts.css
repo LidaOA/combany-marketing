@@ -1,0 +1,8 @@
+/* milkyway-two */
+@font-face {
+    font-family: 'MilkyWay';
+    src: url('fonts/milkyway-demo.regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
